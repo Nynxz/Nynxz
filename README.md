@@ -1,21 +1,32 @@
-<a href="https://www.linkedin.com/in/henry-lee-3042b27a/" target="_"><img alt="test" src="https://utfs.io/f/jL4aA76oE2PI0frFODyLZsxveEUG2aQKXyYgjMIzn9fkit1B"/></a>
-<a href="mailto:contact@nynxz.com"><img alt="test" src="https://utfs.io/f/jL4aA76oE2PI98QUr03GiVF3GOc06gTuzrUMtPjKEmlsvnS5"/></a>
-<a href="https://nynxz.com" target="_"><img alt="test" src="https://utfs.io/f/jL4aA76oE2PIyV5w8qj2VldLhzs0t93nDmqryQiHBwuUxIPc"/></a>
-<a href="https://app.hackthebox.com/profile/462133" target="_"><img alt="test" src="https://utfs.io/f/jL4aA76oE2PIOADAP295Lv4QBzj8g9wq36DVk2YMi0mPfXeG"/></a>
-## My Sites
+
+## Currently Working On
+
+My project [Embeddr](https://github.com/embeddr-net/embeddr-cli)!
+
+<a href="https://github.com/embeddr-net" target="_"><img alt="test" src="https://camo.githubusercontent.com/987f56daf41316561211034ffe801d039e94a7de45c9844c5244d8e9163898f5/68747470733a2f2f656d62656464722e6e65742f656d62656464725f6c6f676f5f7472616e73706172656e742e706e67" width=200/></a>
+
+I am looking for work!
+
+## Other sites
 <ul>
   <li><a href="https://nynxz.com">nynxz.com</a></li>
   <li><a href="https://ssh.ninja">ssh.ninja</a></li>
+  <li><a href="https://epstein.embeddr.net">epstein.embeddr.net</a></li>
 </ul>
 
-## Hi there 👋
+## Details 👋
 - 📫 How to reach me: 
   - **Email:**   <contact@nynxz.com>
   - **Discord:** [@nynxz](https://discord.com/users/282803112828469248)
   - **Matrix:**  [@nynxz](https://matrix.to/nynxz#/@nynxz:matrix.org)
 - 🏅 [Bachelor of Information Technology (Software Development) @ Griffith University](https://www.griffith.edu.au/study/degrees/bachelor-of-information-technology-1538)
 
+---
 
+<a href="https://www.linkedin.com/in/henry-lee-3042b27a/" target="_"><img alt="test" src="https://utfs.io/f/jL4aA76oE2PI0frFODyLZsxveEUG2aQKXyYgjMIzn9fkit1B"/></a>
+<a href="mailto:contact@nynxz.com"><img alt="test" src="https://utfs.io/f/jL4aA76oE2PI98QUr03GiVF3GOc06gTuzrUMtPjKEmlsvnS5"/></a>
+<a href="https://nynxz.com" target="_"><img alt="test" src="https://utfs.io/f/jL4aA76oE2PIyV5w8qj2VldLhzs0t93nDmqryQiHBwuUxIPc"/></a>
+<a href="https://app.hackthebox.com/profile/462133" target="_"><img alt="test" src="https://utfs.io/f/jL4aA76oE2PIOADAP295Lv4QBzj8g9wq36DVk2YMi0mPfXeG"/></a>
 
 <!--
 **Nynxz/Nynxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

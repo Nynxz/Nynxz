@@ -10,8 +10,9 @@ I am looking for work!
 ## Other sites
 <ul>
   <li><a href="https://nynxz.com">nynxz.com</a></li>
+  <li><a href="https://embeddr.net">embeddr.net</a></li>
   <li><a href="https://ssh.ninja">ssh.ninja</a></li>
-  <li><a href="https://epstein.embeddr.net">epstein.embeddr.net</a></li>
+  <li><a href="https://expire.tech">expire.tech</a></li>
 </ul>
 
 ## Details 👋

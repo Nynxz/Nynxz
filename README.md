@@ -3,7 +3,7 @@
 
 My project [Embeddr](https://github.com/embeddr-net/embeddr-cli)!
 
-<a href="https://github.com/embeddr-net" target="_"><img alt="test" src="https://camo.githubusercontent.com/987f56daf41316561211034ffe801d039e94a7de45c9844c5244d8e9163898f5/68747470733a2f2f656d62656464722e6e65742f656d62656464725f6c6f676f5f7472616e73706172656e742e706e67" width=200/></a>
+<a href="https://github.com/embeddr-net" target="_"><img alt="embeddr logo" src=".github/assets/embeddr_logo_transparent.webp" width=200/></a>
 
 I am looking for work!
 
